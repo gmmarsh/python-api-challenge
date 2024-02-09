@@ -1,2 +1,3 @@
 # Adding config.py file to .gitignore
+echo "api_keys.py" >> .gitignore
 echo "config.py" >> .gitignore
